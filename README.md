@@ -5,7 +5,8 @@ I used this dataset from kaggle to train the sentiment analysis https://www.kagg
 
 If you are planning to use this model locally, there is one thing you have to do first:
       download the model checkpoint from https://drive.google.com/drive/folders/1TO6BG5QcBjDyH7jNHuERuIvyNvoW8Hlg?usp=sharing
-      place the model in the same folder as the main.ipynb
+      download the sentiment analysis model from here https://drive.google.com/drive/folders/1RiCua7ODypSqq9x14aB8L2O-Wng_i-6h?usp=sharing
+      place both models in the same folder as the main.ipynb
       go to the "checkpoint" folder 
       open the "checkpoint" file
       change the paths to the location of the "model-17500" (this model is on the same "checkpoint" folder)
